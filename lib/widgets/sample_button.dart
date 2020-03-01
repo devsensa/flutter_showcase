@@ -5,7 +5,7 @@ class SampleButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return RaisedButton(
       onPressed: () {},
-      child: Text('SAMPLE BUTTON'),
+      child: Text('SAMPLE BUTTON!'),
     );
   }
 }
